@@ -1,0 +1,30 @@
+{
+  "name": "wflow-icon-angular-component",
+  "version": "1.0.0",
+  "description": "Angular icon component for wflow.com projects.",
+  "keywords": [
+    "angular",
+    "icon",
+    "package"
+  ],
+  "homepage": "https://github.com/UserName/package-name",
+  "bugs": {
+    "url": "https://github.com/UserName/package-name/issues",
+    "email": "eduardbalev@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UserName/package-name.git"
+  },
+  "author": "Eduard Balev <eduardbalev@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "engineStrict": true
+}
