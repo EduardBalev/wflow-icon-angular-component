@@ -1,0 +1,4 @@
+export const wiconDocumentError = {
+    name: 'document_error',
+    data: `<svg viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M3.33 2.72c0-.43.36-.78.8-.78h6.64c.44 0 .8.35.8.78a.79.79 0 01-.8.78H4.93v13h9.03v-4.94c0-.43.36-.78.8-.78.44 0 .8.35.8.78v5.72a.79.79 0 01-.8.78H4.13a.79.79 0 01-.8-.78V2.72z" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M6.67 9.72c0-.3.24-.55.55-.55h4.45a.56.56 0 110 1.1H7.22a.56.56 0 01-.55-.55zm0 2.22c0-.3.24-.55.55-.55h4.45a.56.56 0 110 1.11H7.22a.56.56 0 01-.55-.56zm0 2.23c0-.31.24-.56.55-.56h4.45a.56.56 0 110 1.11H7.22a.56.56 0 01-.55-.55zm8-12.78c.3 0 .55.25.55.55V6.4a.56.56 0 01-1.1 0V1.94c0-.3.24-.55.55-.55z" clip-rule="evenodd"/><path fill="currentColor" d="M15.22 8.06a.56.56 0 11-1.1 0 .56.56 0 011.1 0z"/></svg>`
+};

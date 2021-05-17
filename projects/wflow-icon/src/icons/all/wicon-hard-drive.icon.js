@@ -1,0 +1,4 @@
+export const wiconHardDrive = {
+    name: 'hard_drive',
+    data: `<svg viewBox="0 0 20 20"><path fill="currentColor" fill-rule="evenodd" d="M1.67 10c0-.3.34-.56.75-.56h15.16c.41 0 .75.25.75.56 0 .3-.34.56-.75.56H2.42c-.41 0-.75-.25-.75-.56z" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M6.4 3.33h7.2a2.3 2.3 0 012.04 1.24l2.61 5.1c.06.1.08.21.08.33v4.44a2.27 2.27 0 01-2.27 2.23H3.94a2.27 2.27 0 01-2.27-2.23V10c0-.12.02-.23.08-.33l2.61-5.1a2.3 2.3 0 012.03-1.24zm-.69 1.9l-2.53 4.94v4.28c0 .4.35.74.76.74h12.12a.76.76 0 00.76-.74v-4.27l-2.53-4.95a.77.77 0 00-.68-.41H6.39a.78.78 0 00-.67.4z" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M5 13.06c0-.46.25-.84.55-.84.31 0 .56.37.56.84 0 .46-.25.83-.55.83-.31 0-.56-.37-.56-.83zm2.78 0c0-.46.37-.84.83-.84a.83.83 0 010 1.67.83.83 0 01-.83-.83z" clip-rule="evenodd"/></svg>`
+};
